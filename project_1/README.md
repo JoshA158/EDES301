@@ -4,6 +4,7 @@ All implementation files for this project are maintained within the project_1 di
 Each source file includes appropriate header comments and in-line documentation describing its purpose, functionality, and usage, in accordance with the project requirements.
 
 Before attempting to program the PocketBeagle, you must:
+
     1). Flash a Debian-based operating system image onto a microSD card for the PocketBeagle.
     2). Boot the PocketBeagle and verify that it has a working internet connection.
 
