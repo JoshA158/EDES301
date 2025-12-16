@@ -25,7 +25,7 @@ Software Operation Instructions
     1). Power the PocketBeagle and the external motor power supply.
     2). Place the robot in an upright position on a level surface.
     3). Execute the main control program: python3 main.py
-    4).Carefully release the robot and observe its self-balancing behavior.
+    4). Carefully release the robot and observe its self-balancing behavior.
 
 PID control gains may be adjusted within the software to improve stability and performance as needed.
 
