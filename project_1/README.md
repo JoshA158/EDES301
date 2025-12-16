@@ -31,5 +31,6 @@ PID control gains may be adjusted within the software to improve stability and p
 
 Additional project documentation, including images and a demonstration video, is available on Hackster.io:
 
-    - 
+    - https://www.hackster.io/ja158/self-balancing-robot-cd2118 
+    
 
