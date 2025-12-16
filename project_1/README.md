@@ -8,10 +8,12 @@ Before attempting to program the PocketBeagle, you must:
     2). Boot the PocketBeagle and verify that it has a working internet connection.
 
 Navigate to the project directory:
+
     - cd project_01
 
 
 Install the required Python dependencies, including the IMU driver library:
+
     - pip3 install adafruit-circuitpython-bno055
 
 
